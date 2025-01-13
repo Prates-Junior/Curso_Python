@@ -13,7 +13,7 @@ print(frase[3:13])
 # print(frase.upper())
 
 
-# Deixaa primeira letra em maiuscula
+# Deixa a primeira letra em maiuscula
 print(frase.capitalize())
 
 # Deixa as inicias de todas as palavras em maiusculas
